@@ -1,4 +1,3 @@
-import java.util.ArrayList;
 public class grade {
 
     private static int next_id = 123;
