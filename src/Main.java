@@ -245,7 +245,6 @@ public class Main {
             }
         }
 
-
         if (!found) {
             System.out.println("Schedule is empty.");
         }
