@@ -1,4 +1,4 @@
-public class user {
+public class User {
 
     private static int ids = 1122;
 
@@ -14,7 +14,7 @@ public class user {
 
 
 
-        public user(
+        public User(
 
                 String _name,
                 String _surname,

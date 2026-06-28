@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class section {
+public class Section {
 
     private static int next_id = 123;
 
@@ -15,7 +15,7 @@ public class section {
 
 
 
-    public section(
+    public Section(
 
             int _subject_id,
             String _name,

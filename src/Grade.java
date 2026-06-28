@@ -1,4 +1,4 @@
-public class grade {
+public class Grade {
 
     private static int next_id = 123;
 
@@ -8,7 +8,7 @@ public class grade {
     int section_id;
     float value;
 
-        public grade(
+        public Grade(
                 int _student_id,
                 int _section_id,
                 float _value
